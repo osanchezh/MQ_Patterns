@@ -69,7 +69,7 @@ class Result3 {
 
 }
 
-public class Solution2 {
+public class MinimumMoves {
 	public static void main(String[] args) throws IOException {
 		List<Integer> lst1= new ArrayList<Integer>();
 		lst1.add(1234);

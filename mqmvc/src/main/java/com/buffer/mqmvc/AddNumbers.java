@@ -1,10 +1,11 @@
 package com.buffer.mqmvc;
 
-public class Test {
+public class AddNumbers {
 
-	public static int addNumbers(float a, float b) {
+	public static Integer addNumbers(float a, float b) {
 		Double resultado=Math.floor(a)+Math.floor(b);
-		return resultado.intValue();
+		int r= resultado.intValue();
+		return r;
 	} 
 	public static void main(String[] args) {
 		

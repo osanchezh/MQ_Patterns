@@ -1,6 +1,6 @@
 package com.buffer.mqmvc;
 
-class Dividir2
+class Dividir
 {
 
 	public static int division(int x, int y)
