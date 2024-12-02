@@ -50,11 +50,12 @@ public class Solution107 {
 	public int maxProfit4(int[] prices) {
 		int ans = 0, mi = prices[0];
 		for (int v : prices) {
-			
+			System.out.println("v="+v);
+			System.out.println("2.ans="+ans+",v="+v+",mi="+mi+",resta="+(v-mi));
 			ans = Math.max(ans, v - mi);
 			mi = Math.min(mi, v);
 			
-			System.out.println("ans="+ans+",mi="+mi);
+			System.out.println("2.ans="+ans+",mi="+mi);
 		}
 		return ans;
 	}
