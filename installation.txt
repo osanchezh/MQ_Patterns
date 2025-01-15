@@ -1,8 +1,4 @@
 
-obakam602@gmail.com
-new:4781BallenaAzul.1
------------------------------------
-
 https://developer.ibm.com/tutorials/mq-jms-application-development-with-spring-boot/
 docker run ‑‑env LICENSE=accept ‑‑env MQ_QMGR_NAME=QM1
            ‑‑publish 1414:1414

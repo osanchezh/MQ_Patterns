@@ -22,3 +22,14 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+mqmvc/FFDC/JMSCC0001.FDC
+mqmvc/FFDC/JMSCC0002.FDC
+mqmvc/FFDC/JMSCC0003.FDC
+mqmvc/mqjms.log.0
+mqmvc/src/main/java/com/buffer/mqmvc/solutions/Solution108.java
+mqmvc/src/main/java/com/buffer/mqmvc/solutions/Solution109.java
+mqmvc/src/main/java/com/buffer/mqmvc/solutions/Solution110.java
+mqmvc/temporal.txt
+mqmvc/temporal1.txt
+mqmvc/temporal.txt
+mqmvc/temporal.txt
