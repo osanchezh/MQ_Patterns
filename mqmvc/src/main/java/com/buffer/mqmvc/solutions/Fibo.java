@@ -11,7 +11,7 @@ public class Fibo {
 		return resultado;
 	}
 	public static void main(String[] args) {
-		System.out.println(fibo(30));
+		System.out.println(fibo(4));
 
 	}
 
